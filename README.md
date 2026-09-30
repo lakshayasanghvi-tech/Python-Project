@@ -5,7 +5,6 @@
 * pandas 
 * seaborn 
 <<<<<<< HEAD
-* Pickle 
 =======
 * pickle
 * joblib
