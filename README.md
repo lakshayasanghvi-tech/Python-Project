@@ -8,7 +8,9 @@ Tools used:
 * matplotlib 
 * pandas 
 * seaborn 
+<<<<<<< HEAD
 * Pickle 
+=======
 * pickle
 * joblib
   
