@@ -4,4 +4,6 @@
 * matplotlib 
 * pandas 
 * seaborn 
-* pickle 
+* pickle
+* joblib
+  
